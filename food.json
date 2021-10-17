@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/4jNhp1R/breakfast1.png",
+    "title": "Bagel and cream cheese",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 6.99,
+    "categoryType": "breakfast"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/xgtvtkh/breakfast2.png",
+    "title": "Breakfast sandwich",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 9.99,
+    "categoryType": "breakfast"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/Js1hdqf/breakfast3.png",
+    "title": "Baked chicken",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 10.99,
+    "categoryType": "breakfast"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/DfZ7xbX/breakfast4.png",
+    "title": "Eggs Benedict",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 8.99,
+    "categoryType": "breakfast"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/wLZV6CS/breakfast5.png",
+    "title": "Toast croissant Fried Egg",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 19.99,
+    "categoryType": "breakfast"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/Nnmh9VW/breakfast6.png",
+    "title": "Full breakfast Fried Egg toast Brunch",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 3.99,
+    "categoryType": "breakfast"
+  },
+
+  {
+    "id": 7,
+    "image": " https://i.ibb.co/Vp8MPrX/lunch1.png",
+    "title": "Healty meal plan",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 23.99,
+    "categoryType": "lunch"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/rcsvQhx/lunch2.png",
+    "title": "Fried Chicken bento",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 9.99,
+    "categoryType": "lunch"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/dcdJ4K3/lunch3.png",
+    "title": "Trragon Rubbed Salmon",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 6.99,
+    "categoryType": "lunch"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/HPkrLhj/lunch4.png",
+    "title": "Indian Lunch",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 8.99,
+    "categoryType": "lunch"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/QdjJLwB/lunch5.png",
+    "title": "Beaf Steak",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 15.99,
+    "categoryType": "lunch"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/0Jjj4r3/lunch6.png",
+    "title": "Honey Soy Glazed salman with peppers",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 7.99,
+    "categoryType": "lunch"
+  },
+
+  {
+    "id": 13,
+    "image": " https://i.ibb.co/L1dy6Fq/dinner1.png",
+    "title": "Salmon with grapefruit and lentil salad",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 9.99,
+    "categoryType": "dinner"
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/sVBjn5g/dinner2.png",
+    "title": "Lemony salmon piccata",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 10.99,
+    "categoryType": "dinner"
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/ryz1KFP/dinner3.png",
+    "title": "Park tenderloin with quinoa pilaf",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 12.99,
+    "categoryType": "dinner"
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/Js4BwGG/dinner4.png",
+    "title": "Franch fries with cheese",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 8.99,
+    "categoryType": "dinner"
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/zr0NG6K/dinner5.png",
+    "title": "Garlic butter backed salmon",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 6.99,
+    "categoryType": "dinner"
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/zGj8Zmq/dinner6.png",
+    "title": "Backed Chicken",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": 9.99,
+    "categoryType": "dinner"
+  },
+  {
+    "id": 19,
+    "image": "http://dummyimage.com/242x100.png/cc0000/ffffff",
+    "title": "Trippledex",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": "83-382-3888",
+    "categoryType": "⁰⁴⁵₀₁₂"
+  },
+  {
+    "id": 20,
+    "image": "http://dummyimage.com/249x100.png/5fa2dd/ffffff",
+    "title": "Zamit",
+    "shortDescription": "How we dreamour future",
+    "longDescription": "Gay one the what walk than she. Demesene mention promise you justice arived way. Amazing food are or and incresing to in especially inquitued companines acceptances admiration. Outweight and fimilies distance wandered ye",
+    "price": "18-437-3273",
+    "categoryType": "﻿"
+  }
+]
